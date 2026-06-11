@@ -1,0 +1,1 @@
+para ejecutar este proyecto, descarguelo y dirijase a la carpeta src luego a la carpeta main y en la carpeta llamada java buscar una carpeta llamada com, ahi hay otra carpeta llamada my company y en esa carpeta se encontrara el ejecutor de el programa
