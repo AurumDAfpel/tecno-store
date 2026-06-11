@@ -6,6 +6,7 @@ com\mycompany\tecnostore\TecnoStore.class
 DAO\CelularDAO.class
 modelo\item_venta.class
 modelo\celular.class
+PruebaConexion.class
 modelo\cliente.class
 modelo\persona.class
 patron\FactoryCelular.class
