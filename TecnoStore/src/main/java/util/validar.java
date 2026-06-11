@@ -11,7 +11,7 @@ package util;
  */
 import java.util.regex.Pattern;
 
-public class validador {
+public class validar {
     private static final String EMAIL_REGEX = "^[A-Za-z0-9+_.-]+@(.+)$";
 
     public static boolean validarCorreo(String correo) {

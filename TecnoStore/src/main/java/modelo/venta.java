@@ -36,7 +36,7 @@ public class venta {
     }
 
     private void calcularTotal() {
-        double subtotalNeto = items.stream().mapToDouble(ItemVenta::getSubtotal).sum();
+        double subtotalNeto = items.stream().mapToDouble(item_venta::getSubtotal).sum();
         this.total = subtotalNeto * 1.19; // IVA del 19%
     }
 

@@ -1,0 +1,17 @@
+D:\Nueva Carpeta\TecnoStore\src\main\java\com\mycompany\tecnostore\TecnoStore.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\Conexion\ConexionDB.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\DAO\CelularDAO.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\DAO\ClienteDAO.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\DAO\VentaDAO.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\modelo\categoria_gama.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\modelo\celular.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\modelo\cliente.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\modelo\item_venta.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\modelo\persona.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\modelo\venta.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\patron\FactoryCelular.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\servicio\GestorCelulares.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\servicio\GestorClientes.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\servicio\GestorVentas.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\util\utils.java
+D:\Nueva Carpeta\TecnoStore\src\main\java\util\validar.java
